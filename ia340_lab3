@@ -65,4 +65,12 @@ where p_email='p1@jmu.edu'
 
 select * from professor
 
---Q2: You need to edit the the course table first because p1's email is being used within that. You must change this table in order to remove p1's data from the professor table.
+--Q2: You need to edit the course table first because p1's email is being used within that. You must change this table in order to remove p1's data from the professor table.
+
+--Q2.7
+
+select * from enroll_list
+
+--Q2.8
+
+
